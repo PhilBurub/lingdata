@@ -8,7 +8,7 @@
 8	говорите	говорить	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#34.164#34.532
 9	говорите	говорить	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#34.532#34.799
 10	//	//	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#34.799#34.906
-11	ааа	ааа	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#34.913#35.146
+11	ааа	а	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#34.913#35.146
 12	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@dir1953f#@dir1953f#35.146#35.492
 13	помните	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#35.492#36.098
 14	что	что	SCONJ	_	_	_	_	_	words@dir1953f#@dir1953f#36.098#36.369
@@ -24,7 +24,7 @@
 24	по	по	ADP	_	_	_	_	_	words@dir1953f#@dir1953f#39.975#40.199
 25	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#40.199#40.646
 26	его	его	DET	_	_	_	_	_	words@dir1953f#@dir1953f#40.646#41.236
-27	эээ	эээ	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#41.236#41.826
+27	эээ	э	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#41.236#41.826
 28	блистательной	блистательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#41.826#42.416
 29	очередной	очередной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#42.416#43.276
 30	оперы	опера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#43.276#43.669
@@ -90,8 +90,8 @@
 90	актёрам	актер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	words@dir1953f#@dir1953f#65.253#65.519
 91	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#65.519#65.615
 92	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dir1953f#@dir1953f#65.615#66.053
-93	ммм	ммм	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#66.053#66.846
-94	эээ	эээ	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#66.846#67.746
+93	ммм	м	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#66.053#66.846
+94	эээ	э	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#66.846#67.746
 95	часто	часто	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#67.746#68.253
 96	сталкивалась	сталкиваться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@dir1953f#@dir1953f#68.253#68.869
 97	с	с	ADP	_	_	_	_	_	words@dir1953f#@dir1953f#68.869#68.984
@@ -109,7 +109,7 @@
 109	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#73.419#73.615
 110	которые	который	PRON	_	Case=Nom	_	_	_	words@dir1953f#@dir1953f#73.615#74.184
 111	прекрасно	прекрасно	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#74.184#75.069
-112	эээ	эээ	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#75.069#75.323
+112	эээ	э	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#75.069#75.323
 113	выводят	выводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#75.323#75.769
 114	рисунок	рисунок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#75.769#76.453
 115	роли	роль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#76.453#77.346
@@ -118,7 +118,7 @@
 118	умеют	уметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#78.846#79.646
 119	прочесть	прочесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dir1953f#@dir1953f#79.646#81.13
 120	текст	текст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#81.13#82.069
-121	эээ	эээ	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#82.069#82.861
+121	эээ	э	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#82.069#82.861
 122	который	который	PRON	_	Case=Nom	_	_	_	words@dir1953f#@dir1953f#82.861#83.13
 123	идёт	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#83.13#83.438
 124	не	не	PART	_	_	_	_	_	words@dir1953f#@dir1953f#83.438#83.561
@@ -196,7 +196,7 @@
 196	тембра	тембр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#114.069#114.503
 197	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#114.503#114.938
 198	из	из	ADP	_	_	_	_	_	words@dir1953f#@dir1953f#114.938#115.461
-199	эээ	эээ	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#115.461#115.964
+199	эээ	э	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#115.461#115.964
 200	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#115.964#116.315
 201	что	что	PRON	_	Case=Nom	_	_	_	words@dir1953f#@dir1953f#116.315#116.738
 202	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#116.738#118.076
@@ -210,7 +210,7 @@
 210	хорошо	хорошо	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#119.623#120.13
 211	вспомнили	вспомнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#120.13#120.868
 212	радиоспектакли	радиоспектакль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@dir1953f#@dir1953f#120.868#121.946
-213	ммм	ммм	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#121.946#122.38
+213	ммм	м	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#121.946#122.38
 214	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#122.38#123.138
 215	моего	мой	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#123.138#123.392
 216	детства	детство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#123.392#123.874
@@ -245,7 +245,7 @@
 245	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@dir1953f#@dir1953f#133.884#134.384
 246	вдруг	вдруг	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#134.384#134.884
 247	позвонили	позвонить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#134.884#135.384
-248	эээ	эээ	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#135.384#136.119
+248	эээ	э	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#135.384#136.119
 249	из	из	ADP	_	_	_	_	_	words@dir1953f#@dir1953f#136.119#136.384
 250	редакции	редакция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#136.384#136.761
 251	юношеской	юношеский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#136.761#137.018
@@ -268,7 +268,7 @@
 268	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#141.276#141.546
 269	Ильинична	Ильинична	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#141.546#141.808
 270	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#141.808#142.07
-271	эммм	эммм	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#142.07#143.084
+271	эммм	эм	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#142.07#143.084
 272	Дина	Дина	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#143.084#143.676
 273	э	э	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#143.676#143.984
 274	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@dir1953f#@dir1953f#143.984#144.184
@@ -297,7 +297,7 @@
 297	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@dir1953f#@dir1953f#150.346#150.569
 298	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dir1953f#@dir1953f#150.569#150.846
 299	радио	радио	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#150.846#151.215
-300	эээ	эээ	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#151.215#152.066
+300	эээ	э	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#151.215#152.066
 301	спектакль	спектакль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#152.066#152.417
 302	не	не	PART	_	_	_	_	_	words@dir1953f#@dir1953f#152.417#152.769
 303	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#152.769#153.053
@@ -409,7 +409,7 @@
 409	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#214.176#214.792
 410	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#214.792#215.322
 411	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#215.322#215.853
-412	эээ	эээ	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#215.853#217.423
+412	эээ	э	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#215.853#217.423
 413	сериал	сериал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#217.423#218.161
 414	по	по	ADP	_	_	_	_	_	words@dir1953f#@dir1953f#218.161#218.353
 415	моему	мой	DET	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#218.353#218.553
@@ -811,7 +811,7 @@
 811	слово	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@az1964f#@az1964f#191.976#192.323
 812	воображение	воображение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@az1964f#@az1964f#192.323#193.224
 813	/	/	PUNCT	_	_	_	_	_	words@az1964f#@az1964f#193.224#193.372
-814	ммм	ммм	INTJ	_	_	_	_	_	words@az1964f#@az1964f#193.372#194.069
+814	ммм	м	INTJ	_	_	_	_	_	words@az1964f#@az1964f#193.372#194.069
 815	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@az1964f#@az1964f#194.069#194.353
 816	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@az1964f#@az1964f#194.353#194.861
 817	что	что	SCONJ	_	_	_	_	_	words@az1964f#@az1964f#194.861#195.153
