@@ -35,7 +35,7 @@
 35	еще	еще	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#44.446#44.992
 36	не	не	PART	_	_	_	_	_	words@dir1953f#@dir1953f#44.992#45.323
 37	ели	есть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#45.323#45.584
-38	мой	мой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#45.584#46.215
+38	мой	мой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#45.584#46.215
 39	паштет	паштет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#46.215#46.734
 40	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#46.734#46.898
 41	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@dir1953f#@dir1953f#46.898#47.215
@@ -59,7 +59,7 @@
 59	вот	вот	PART	_	_	_	_	_	words@dir1953f#@dir1953f#54.23#54.461
 60	да	да	PART	_	_	_	_	_	words@dir1953f#@dir1953f#54.461#54.607
 61	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#54.607#54.792
-62	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#54.792#55.076
+62	мой	мой	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#54.792#55.076
 63	паштет	паштет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#55.076#55.694
 64	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#55.694#55.853
 65	понимаете	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#55.853#56.316
@@ -175,7 +175,7 @@
 175	да	да	INTJ	_	_	_	_	_	words@dir1953f#@dir1953f#105.207#105.464
 176	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#105.464#105.67
 177	вот	вот	PART	_	_	_	_	_	words@dir1953f#@dir1953f#105.67#105.876
-178	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#105.876#106.169
+178	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#105.876#106.169
 179	витамин	витамин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#106.169#106.492
 180	Ц	Ц	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#106.492#106.715
 181	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#106.715#107.424
@@ -225,7 +225,7 @@
 225	что	что	SCONJ	_	_	_	_	_	words@dir1953f#@dir1953f#126.724#127.053
 226	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dir1953f#@dir1953f#127.053#127.223
 227	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#127.223#127.515
-228	эти	этот	DET	_	Case=Acc|Number=Plur	_	_	_	words@dir1953f#@dir1953f#127.515#127.715
+228	эти	этот	DET	_	Animacy=Inan|Case=Acc|Number=Plur	_	_	_	words@dir1953f#@dir1953f#127.515#127.715
 229	радиоспектакли	радиоспектакль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@dir1953f#@dir1953f#127.715#128.476
 230	делала	делать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#128.476#128.874
 231	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#128.874#129.03
@@ -274,7 +274,7 @@
 274	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@dir1953f#@dir1953f#143.984#144.184
 275	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#144.184#144.615
 276	вот	вот	PART	_	_	_	_	_	words@dir1953f#@dir1953f#144.615#144.915
-277	ваше	ваш	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#144.915#145.049
+277	ваше	ваш	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#144.915#145.049
 278	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#145.049#145.184
 279	вот	вот	PART	_	_	_	_	_	words@dir1953f#@dir1953f#145.184#145.361
 280	в	в	ADP	_	_	_	_	_	words@dir1953f#@dir1953f#145.361#145.53
@@ -361,8 +361,8 @@
 361	радио	радио	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#178.838#179.261
 362	про	про	ADP	_	_	_	_	_	words@dir1953f#@dir1953f#179.261#179.599
 363	вот	вот	PART	_	_	_	_	_	words@dir1953f#@dir1953f#179.599#179.792
-364	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#179.792#180.038
-365	твой	твой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#180.038#180.299
+364	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#179.792#180.038
+365	твой	твой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#180.038#180.299
 366	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#180.299#180.915
 367	в	в	ADP	_	_	_	_	_	words@dir1953f#@dir1953f#180.915#181.176
 368	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#181.176#181.923
@@ -491,7 +491,7 @@
 491	родил	родить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#244.488#244.933
 492	можно	можно	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#244.933#245.192
 493	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dir1953f#@dir1953f#245.192#245.446
-494	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#245.446#245.753
+494	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#245.446#245.753
 495	образ	образ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#245.753#245.899
 496	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#245.899#246.046
 497	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#246.046#246.553
@@ -912,3 +912,4 @@
 912	да	да	INTJ	_	_	_	_	_	words@az1964f#@az1964f#297.146#297.38
 913	//	//	PUNCT	_	_	_	_	_	words@az1964f#@az1964f#297.38#297.615
 914	#нрзб#	#нрзб#	X	_	_	_	_	_	words@az1964f#@az1964f#298.199#298.876
+915
