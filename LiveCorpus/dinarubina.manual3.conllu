@@ -163,7 +163,7 @@
 163	слушает	слушать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#99.876#100.353
 164	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#100.353#100.907
 165	то	то	SCONJ	_	_	_	_	_	words@dir1953f#@dir1953f#100.907#101.199
-166	возможно	возможно	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#101.199#101.961
+166	возможно	возможно	ADJ	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#101.199#101.961
 167	что-то	что-то	PRON	_	Case=Acc	_	_	_	words@dir1953f#@dir1953f#101.961#102.376
 168	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@dir1953f#@dir1953f#102.376#102.63
 169	дополняет	дополнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#102.63#103.576
@@ -489,7 +489,7 @@
 489	автору	автор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#243.598#244.043
 490	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#244.043#244.488
 491	родил	родить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#244.488#244.933
-492	можно	можно	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#244.933#245.192
+492	можно	можно	VERB	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#244.933#245.192
 493	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dir1953f#@dir1953f#245.192#245.446
 494	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#245.446#245.753
 495	образ	образ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#245.753#245.899
@@ -519,7 +519,7 @@
 519	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#255.418#255.83
 520	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@dir1953f#@dir1953f#255.83#256.099
 521	совершенно	совершенно	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#256.099#256.426
-522	невозможно	невозможно	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#256.426#256.753
+522	невозможно	невозможно	ADJ	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#256.426#256.753
 523	вынести	вынести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dir1953f#@dir1953f#256.753#257.08
 524	//	//	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#257.08#257.407
 525	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#257.415#257.83
@@ -660,7 +660,7 @@
 660	наполненный	наполненный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@dir1953f#@dir1953f#328.776#329.861
 661	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dir1953f#@dir1953f#329.861#330.118
 662	/	/	PUNCT	_	_	_	_	_	words@dir1953f#@dir1953f#330.118#330.376
-663	можно	можно	ADV	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#330.376#330.623
+663	можно	можно	VERB	_	Degree=Pos	_	_	_	words@dir1953f#@dir1953f#330.376#330.623
 664	поговорить	поговорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dir1953f#@dir1953f#330.623#331.199
 665	с	с	ADP	_	_	_	_	_	words@dir1953f#@dir1953f#331.199#331.446
 666	Диной	Дина	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@dir1953f#@dir1953f#331.446#332.13
